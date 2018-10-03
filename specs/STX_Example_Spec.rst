@@ -33,9 +33,9 @@ Some notes about using this template:
 
 * Please wrap text at 79 columns.
 
-* The filename in the git repository should match the Storyboard URL, for
-  example a URL of: spec/awesome-thing
-  should be named awesome-thing.rst
+* The filename in the git repository should include the StoryBoard number and name, 
+  for example a Story at https://storyboard.openstack.org/#!/story/1234567
+  should be named 1234567-feature-name.rst
 
 * Please do not delete any of the sections in this template.  If you have
   nothing to say for a whole section, just write: None
