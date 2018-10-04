@@ -14,7 +14,7 @@
 Instructions
 ============
 
-- Use the template.rst as the basis of your specification.
+- Use STX_Example_Spec.rst as the basis of your specification.
 - Attempt to detail each applicable section.
 - If a section does not apply, use N/A, and optionally provide
   a short explanation.
