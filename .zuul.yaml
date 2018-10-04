@@ -1,9 +1,13 @@
 ---
 - project:
+    templates:
+      - build-openstack-docs-pti
     check:
       jobs:
-        - build-openstack-sphinx-docs
         - openstack-tox-linters
     gate:
       jobs:
         - openstack-tox-linters
+    post:
+      jobs:
+        - publish-stx-specs
