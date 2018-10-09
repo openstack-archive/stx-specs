@@ -1,0 +1,9 @@
+Code-Review+2: Brent Rowsell <brent.rowsell@windriver.com>
+Code-Review+2: Ian Jolliffe <ian.jolliffe@windriver.com>
+Workflow+1: Brent Rowsell <brent.rowsell@windriver.com>
+Verified+2: Zuul
+Submitted-by: Zuul
+Submitted-at: Tue, 09 Oct 2018 13:21:17 +0000
+Reviewed-on: https://review.openstack.org/607705
+Project: openstack/stx-specs
+Branch: refs/heads/master
