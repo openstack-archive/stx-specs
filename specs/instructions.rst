@@ -43,7 +43,7 @@ something that doesn't make sense.
 
 Document names should follow a pattern as follows::
 
-  [category]_title.rst
+  [category]_[storyboard#]_title.rst
 
 Use the following guidelines to determine the category to use for a document:
 

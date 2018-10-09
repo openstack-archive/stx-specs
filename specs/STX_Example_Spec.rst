@@ -36,7 +36,8 @@ Some notes about using this template:
 
 * The filename in the git repository should include the StoryBoard number and name,
   for example a Story at https://storyboard.openstack.org/#!/story/1234567
-  should be named 1234567-feature-name.rst
+  should be named [category]_1234567-feature-name.rst (refer to instructions.rst
+  for guidelines on a suitable category name)
 
 * Please do not delete any of the sections in this template.  If you have
   nothing to say for a whole section, just write: None
