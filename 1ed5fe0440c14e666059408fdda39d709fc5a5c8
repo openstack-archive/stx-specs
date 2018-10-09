@@ -1,0 +1,9 @@
+Code-Review+2: Brent Rowsell <brent.rowsell@windriver.com>
+Code-Review+2: Dean Troyer <dtroyer@gmail.com>
+Workflow+1: Dean Troyer <dtroyer@gmail.com>
+Verified+2: Zuul
+Submitted-by: Zuul
+Submitted-at: Tue, 09 Oct 2018 21:39:26 +0000
+Reviewed-on: https://review.openstack.org/609115
+Project: openstack/stx-specs
+Branch: refs/heads/master
