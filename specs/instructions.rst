@@ -14,14 +14,15 @@
 Instructions
 ============
 
-- Use STX_Example_Spec.rst as the basis of your specification.
+- Use STX_Example_Spec.rst under the ``approved`` subfolder of the applicable
+  release as the basis of your specification.
 - Attempt to detail each applicable section.
 - If a section does not apply, use N/A, and optionally provide
   a short explanation.
-- New specs for review should be placed in the ``approved`` subfolder, where
-  they will undergo review and approval in Gerrit_.
+- New specs for review should be placed in the ``approved`` subfolder for the
+  applicable release, where   they will undergo review and approval in Gerrit_.
 - Specs that have finished implementation should be moved to the
-  ``implemented`` subfolder.
+  ``implemented`` subfolder for the applicable release.
 
 Indexing and Categorization
 ---------------------------

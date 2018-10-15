@@ -1,40 +1,34 @@
-StarlingX Specs
-===============
+.. stx-specs documentation master file
+
+=================================
+OpenStack StarlingX Project Plans
+=================================
+
+Specifications
+==============
+
+Here you can find the specs, and spec template, for each release:
 
 .. toctree::
-    :glob:
-    :maxdepth: 2
-    :caption: Contents:
+   :glob:
+   :maxdepth: 1
 
-StarlingX Project Specifications
---------------------------------
+   specs/2019.03/index
 
-.. toctree::
-    :glob:
-    :maxdepth: 1
+Process
+=======
 
-    specs/*
-
-Approved Specifications
------------------------
+Documentation for stx-specs process:
 
 .. toctree::
-    :glob:
-    :maxdepth: 1
+   :maxdepth: 1
 
-    specs/approved/*
+   How to submit a spec <readme>
 
-Implemented Specifications
---------------------------
-
-.. toctree::
-    :glob:
-    :maxdepth: 1
-
-    specs/implemented/*
+For more details, look at spec template for the specific release, and see the
+wiki page on Blueprints: https://wiki.openstack.org/wiki/Blueprints
 
 Indices and tables
 ==================
 
-* :ref:`genindex`
 * :ref:`search`
