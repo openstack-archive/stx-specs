@@ -34,13 +34,13 @@ encouraged to use index entries for their documents to help with discovery.
 Naming
 ------
 
-Document naming standards help readers find specs. For the StarlingX repository,
-the following document naming is recommended. The categories listed here are
-likely incomplete, and may need expansion to cover new cases. It is preferrable
-to deviate (and hopefully amend the list) than force document names into
-nonsense categories. Prefer using categories that have previously been used or
-that are listed here over new categories, but don't force the category into
-something that doesn't make sense.
+Document naming standards help readers find specs. For the StarlingX
+repository, the following document naming is recommended. The categories listed
+here are likely incomplete, and may need expansion to cover new cases. It is
+preferrable to deviate (and hopefully amend the list) than force document names
+into nonsense categories. Prefer using categories that have previously been
+used or that are listed here over new categories, but don't force the category
+into something that doesn't make sense.
 
 Document names should follow a pattern as follows::
 
