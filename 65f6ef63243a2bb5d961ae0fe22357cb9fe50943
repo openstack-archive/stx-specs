@@ -1,0 +1,12 @@
+Code-Review+2: Brent Rowsell <brent.rowsell@windriver.com>
+Code-Review+2: Ian Jolliffe <ian.jolliffe@windriver.com>
+Code-Review+1: Erich Cordoba <erich.cordoba.malibran@intel.com>
+Code-Review+1: Saul Wold <sgw@linux.intel.com>
+Code-Review+2: Dean Troyer <dtroyer@gmail.com>
+Workflow+1: Ian Jolliffe <ian.jolliffe@windriver.com>
+Verified+2: Zuul
+Submitted-by: Zuul
+Submitted-at: Fri, 26 Oct 2018 22:48:05 +0000
+Reviewed-on: https://review.openstack.org/609784
+Project: openstack/stx-specs
+Branch: refs/heads/master
