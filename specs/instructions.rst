@@ -10,9 +10,12 @@
 
 .. _instructions:
 
-============
+=============
+Submit a Spec
+=============
+
 Instructions
-============
+------------
 
 - Use STX_Example_Spec.rst under the ``approved`` subfolder of the applicable
   release as the basis of your specification.
