@@ -1,0 +1,14 @@
+Code-Review+2: Brent Rowsell <brent.rowsell@windriver.com>
+Code-Review+1: Ken Young <ken.young@windriver.com>
+Code-Review+1: Al Bailey <al.bailey@windriver.com>
+Code-Review+2: Ian Jolliffe <ian.jolliffe@windriver.com>
+Code-Review+2: Curtis Collicutt <curtis@serverascode.com>
+Code-Review+2: Saul Wold <sgw@linux.intel.com>
+Code-Review+2: Dean Troyer <dtroyer@gmail.com>
+Workflow+1: Ian Jolliffe <ian.jolliffe@windriver.com>
+Verified+2: Zuul
+Submitted-by: Zuul
+Submitted-at: Tue, 05 Mar 2019 14:33:19 +0000
+Reviewed-on: https://review.openstack.org/618587
+Project: openstack/stx-specs
+Branch: refs/heads/master
