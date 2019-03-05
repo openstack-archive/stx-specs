@@ -78,7 +78,7 @@ Problem description
 A detailed description of the problem. What problem is this spec addressing?
 
 Use Cases
-=========
+---------
 
 What use cases does this address? What impact on actors does this change have?
 Ensure you are clear about the actors/personas in each use case: Developer, End
@@ -99,14 +99,14 @@ get preliminary feedback. If so please say: Posting to get preliminary feedback
 on the scope of this spec.
 
 Alternatives
-============
+------------
 
 What other ways could we do this thing? Why aren't we using those? This doesn't
 have to be a full literature review, but it should demonstrate that thought has
 been put into why the proposed solution is an appropriate one.
 
 Data model impact
-=================
+-----------------
 
 Changes which require modifications to the data model often have a wider impact
 on the system. The community often has strong opinions on how the data model
@@ -124,7 +124,7 @@ Questions which need to be addressed by this section should include:
 * How will the initial set of new data objects be generated.
 
 REST API impact
-===============
+---------------
 
 Each API method which is either added or changed should have the following
 
@@ -148,7 +148,7 @@ Reuse of existing predefined parameter types such as regexps for passwords and
 user defined names is highly encouraged.
 
 Security impact
-===============
+---------------
 
 Describe any potential security impact on the system. Some of the items to
 consider include:
@@ -177,7 +177,7 @@ security best practices. For further information, feel free to reach out to the
 OpenStack Security Group at openstack-security@lists.openstack.org.
 
 Other end user impact
-=====================
+---------------------
 
 Aside from the API, are there other ways a user will interact with this
 feature?
@@ -186,7 +186,7 @@ feature?
   interface there look like?
 
 Performance Impact
-==================
+------------------
 
 Describe any potential performance impact on the system, for example how often
 will new code be called, and is there a major change to the calling pattern of
@@ -210,7 +210,7 @@ Examples of things to consider here include:
   on holding the lock?
 
 Other deployer impact
-=====================
+---------------------
 
 Discuss things that will affect how you deploy and configure OpenStack that
 have not already been mentioned, such as:
@@ -230,12 +230,12 @@ have not already been mentioned, such as:
   deployment technologies.
 
 Developer impact
-=================
+----------------
 
 Discuss things that will affect other developers working on StarlingX.
 
 Upgrade impact
-===============
+--------------
 
 Describe any potential upgrade impact on the system, such as:
 
@@ -251,7 +251,7 @@ Implementation
 ==============
 
 Assignee(s)
-===========
+-----------
 
 Who is leading the writing of the code? Or is this a blueprint where you're
 throwing it out there to see who picks it up?
@@ -266,12 +266,12 @@ Other contributors:
   <launchpad-id or None>
 
 Repos Impacted
-==============
+--------------
 
 List repositories in StarlingX that are impacted by this spec.
 
 Work Items
-===========
+----------
 
 Work items or tasks -- break the feature up into the things that need to be
 done to implement it. Those parts might end up being done by different people,
