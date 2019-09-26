@@ -1,1 +1,0 @@
-2019.03/approved/STX_Example_Spec.rst
